@@ -4,13 +4,13 @@
 <section class="carrosel">
   <ul class="slides">
     <li class="slide" data-active>
-      <img src="img/pizza-promocao.jpeg" alt="Pizza">
+      <img >
     </li>
     <li class="slide">
-      <img src="img/macarão.jpeg" alt="Macarrão">
+      <img >
     </li>
     <li class="slide">
-      <img src="img/promoçao.png" alt="Promoção">
+      <img >
     </li>
   </ul>
 
